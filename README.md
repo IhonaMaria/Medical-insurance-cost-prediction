@@ -35,6 +35,7 @@ To see the video demonstration, click to the image below and you will be redirec
 
 [![Video Screenshot](video-screenshot.png)](https://drive.google.com/file/d/1PIDUSUmiQWHces29LxnNRMS7mXF395Fp/view?usp=sharing "Watch the Video")
 <br>
+
 <br>
 
 ## Installation and usage
@@ -48,7 +49,9 @@ In this repository you will find a folder with all the project files:
 - You will find the .joblib model and the three label encoders
 
 Additionally, I will publish the jupyter notebook I used for obtaining the model and the video demonstration in the repository. 
+
 <br>
+
 
 ## Conclusion
 During the development of this project, I had to face many challenges. The model development was relatively smooth since the data was very user-friendly and appropriate for beginners. Therefore, I would say that the most challenging part was creating the application itself. I had previously worked with Flask but it was my first time developing any front-end, so I really struggled at the beginning to create the HTML file. The deployment at first was also a bit challenging because I wanted to deploy it using AWS but the dependencies were very big. I came across a videotutorial about Heroku and it turned out to be the perfect and easiest solution for my case. 
