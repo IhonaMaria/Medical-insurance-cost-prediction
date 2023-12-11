@@ -37,7 +37,7 @@ To see the video demonstration, click to the image below and you will be redirec
 <br>
 <br>
 
-### Installation and usage
+## Installation and usage
 In this repository you will find a folder with all the project files: 
 
 - app.py contains the flask app
@@ -50,7 +50,7 @@ In this repository you will find a folder with all the project files:
 Additionally, I will publish the jupyter notebook I used for obtaining the model and the video demonstration in the repository. 
 <br>
 
-### Conclusion
+## Conclusion
 During the development of this project, I had to face many challenges. The model development was relatively smooth since the data was very user-friendly and appropriate for beginners. Therefore, I would say that the most challenging part was creating the application itself. I had previously worked with Flask but it was my first time developing any front-end, so I really struggled at the beginning to create the HTML file. The deployment at first was also a bit challenging because I wanted to deploy it using AWS but the dependencies were very big. I came across a videotutorial about Heroku and it turned out to be the perfect and easiest solution for my case. 
 
 In the end, I was able to overcome all these challenges and finish my first end-to-end Machine Learning project. After the developing of this project, I can say I have improved my problem-solving abilities and learned a lot of new things.
