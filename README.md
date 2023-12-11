@@ -23,6 +23,9 @@ The back-end of the application was built using Python's framework Flask.
 The front-end of the application was built with HTML. Categorical variables have a dropdown for their selection. 
 First, the app loads the ML model and receives the inputs from the user. Then, it processes these inputs with the label encoder (if the variable is non-numerical) and then uses the machine learning model to make a prediction based on the input data. The prediction result is then returned to the HTML file. 
 
+Here is an overview of the result:
+
+![imagen](https://github.com/IhonaMaria/Medical-insurance-cost-prediction/assets/119692820/a8403a23-5de3-417c-b320-20d4c7ac4006)
 
 ### Model deployment
 The model was deployed using Heroku. This process was relatively straightforward, but since there is no free tier anymore on Heroku, I decided to record a brief demonstration of the app (you can see the video on this repository) instead of leaving the application running 24/7.
